@@ -24,10 +24,10 @@
 
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Great Freedom">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Theme">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Great Freedom"/>
-    <meta-data android:name="org.cyanogenmod.theme.author" android:value="CyanogenMod" />
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Theme"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="MR H3LLMAN" />
 
 </manifest>
